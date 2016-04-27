@@ -23,6 +23,6 @@
   "dependencies": {
     "johnny-five": "^0.9.44",
     "raspi-io": "^6.0.1",
-    "selfup-rejs": "^1.0.19"
+    "selfup-rejs": "^1.0.20"
   }
 }
